@@ -11,11 +11,14 @@
   },
   "dependencies": {},
   "keywords": [
-    "magpie-plugin",
-    "qwenwork",
-    "千问办公",
     "enterprise",
-    "vpc"
+    "magpie",
+    "magpie-plugin",
+    "opencode",
+    "opencode-plugin",
+    "qwenwork",
+    "qwenwork-enterprise",
+    "千问办公"
   ],
   "files": [
     "README.md",
