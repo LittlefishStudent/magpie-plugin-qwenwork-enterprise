@@ -1,3 +1,16 @@
+> **⚠️ 已合并进社区包 —— 本仓库归档。**
+> 千问办公（QwenWork）现在由社区包
+> [`@magpie-community/opencode-qoder-auth`](https://github.com/magpie-community/plugins)
+> （[PR #319](https://github.com/magpie-community/plugins/pull/319)，2026-10-25 合并）统一提供，
+> 同时支持公有云（`qwenwork`）与企业旗舰版（`qwenwork-enterprise`，登录时输入自己企业的域名）。
+> 请改用：
+> ```sh
+> magpie plugin add @magpie-community/opencode-qoder-auth
+> ```
+> 此处的代码与提交历史留作参考。
+
+---
+
 # opencode-qwenwork-enterprise-auth — 千问办公（QwenWork）接入 magpie / OpenCode
 
 [English](README.md)

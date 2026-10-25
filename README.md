@@ -1,3 +1,16 @@
+> **⚠️ Merged upstream — this repository is archived.**
+> QwenWork now ships inside the community package
+> [`@magpie-community/opencode-qoder-auth`](https://github.com/magpie-community/plugins)
+> ([PR #319](https://github.com/magpie-community/plugins/pull/319), merged 2026-10-25), which serves
+> the public cloud (`qwenwork`) and the enterprise flagship (`qwenwork-enterprise`) for everyone.
+> Install that instead:
+> ```sh
+> magpie plugin add @magpie-community/opencode-qoder-auth
+> ```
+> The code and history here stay for reference.
+
+---
+
 # opencode-qwenwork-enterprise-auth — QwenWork (千问办公) for magpie / OpenCode
 
 [中文说明](README.zh-CN.md)
